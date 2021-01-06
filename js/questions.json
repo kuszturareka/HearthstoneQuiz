@@ -26,7 +26,7 @@
             "nextQuestionId": 55 
         }
     ]
-}   
+}  ;
 
 {
     "id": 3,
@@ -42,7 +42,7 @@
             "nextQuestionId": 105
         }
     ]
-} 
+}
 {
     "id": 4,
     "question": "What is your ultimate purpose?",
