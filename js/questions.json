@@ -1,0 +1,152 @@
+{
+"id": 1,
+"question": "Which would you have as a Hero Power?",
+"answers": [
+        {   "text": "Deal 2 damage to the Enemy Hero",
+            "nextQuestionId": 2
+        },
+        {   "text": "Draw a card and take 2 damage",
+            "nextQuestionId": 3
+        },
+        {   "text": "Restore 2 health",
+            "nextQuestionId": 4
+        }
+    ]
+
+}
+
+{
+    "id": 2,
+    "question": "Would you prefer an aggro deck or a control deck?",
+    "answers": [
+        {   "text": "Aggro Deck - a deck that takes an 'aggressive' approach of dealing damage to the opponent as quickly as possible.",
+            "nextQuestionId": 5
+        },
+        {   "text": "Control Deck - a deck that attempts to attain victory in the late game.",
+            "nextQuestionId": 55 
+        }
+    ]
+}   
+
+{
+    "id": 3,
+    "question": "Where do you think your strenght lies",
+    "answers": [
+        {   "text": "In your Stealth",
+            "nextQuestionId": 103
+        },
+        {   "text": "In being a master of all things magical",
+            "nextQuestionId": 104
+        },
+        {   "text": "In the Dark Arts",
+            "nextQuestionId": 105
+        }
+    ]
+} 
+{
+    "id": 4,
+    "question": "What is your ultimate purpose?",
+    "answers": [
+        {   "text": "To vanquish evil from the darkest corners of the Realm",
+            "nextQuestionId": 106
+        },
+        {   "text": "To bring balance to the Chaos",
+            "nextQuestionId": 107
+        },
+        {   "text": "Serving the people",
+            "nextQuestionId": 108
+        }
+    ]
+}   
+
+{
+    "id": 5,
+    "question": "Would you rather unleash the beasts or use the forces of nature?",
+    "answers": [
+        {   "text": "Unleash the beasts",
+            "nextQuestionId": 101
+        },
+        {   "text": "Use the forces of nature.",
+            "nextQuestionId": 102
+        }
+    ]
+}
+
+{
+    "id": 6,
+    "question": "Are you always ready to leap into a brawl in person, wielding deadly weapons to cleave and crush your enemies first-hand?",
+    "answers": [
+        {   "text": "Yes",
+            "nextQuestionId": 100
+        },
+        {   "text": "No",
+            "nextQuestionId": 3
+        }
+    ]
+}
+
+{
+    "id" : 100,
+        "question": "Result",
+        "class": "Warrior : Hearthstone's master of war, the warrior is a powerful damage-oriented class. These mighty warlords command the allegiance of fast and deadly minions, sending them charging into the fray. Bloodthirsty gladiators, warriors thrive on damage and bloodshed, with their own wounds only serving to enrage and empower them, making them even deadlier than ever. The warrior's minions share this bloodlust, gaining fearsome new powers from the thrill of battle."
+        "source": 
+}
+
+
+{
+    "id": 101,
+        "question": "Result",
+        "class" : "Hunter : From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. As masters of their environment, hunters are able to slip like ghosts through the trees and lay traps in the paths of their enemies. These expert marksmen drop foes dead in their tracks with flawless shots from a bow, crossbow or rifle. With the ability to wield two weapons simultaneously, hunters can unleash a flurry of blows against anyone unfortunate enough to stumble into close combat with them.",
+        "source": 
+}
+
+{
+"id": 102,
+        "question": "Result",
+        "classes":"Druid : Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature’s raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones. Druids can also direct this power to heal wounds and restore life to fallen allies. They are deeply in tune with the animal spirits of Azeroth. As master shapeshifters, druids can take on the forms of a variety of beasts, morphing into a bear, cat, storm crow, or sea lion with ease.",
+        "source":
+    }
+} 
+
+{
+"id": 103,
+        "question": "Result",
+        "classes":"Rogue : Rogues are backstabbing assassins, known for their stealth, speed and deadly efficiency. Masters of deadly poisons and hidden strikes, most victims of rogues never see their attacker coming. Rogues can slip silently among the shadows, sowing distrust and betrayal among allies, incapacitating sentries and assassinating targets without a sound. Rogues are also masters of speed, unleashing flurries of attacks in devastating combos before sprinting to safety or vanishing out of sight.",
+        "source":
+}
+
+{
+"id": 104,
+        "question": "Result",
+        "classes":"Mage : "Mages are the archetypal spell-casters. Masters of all things magical, they can summon balls of fire, bolts of ice and even pure arcane energy to sear and destroy their opponents. Mages excel at instant damage spells, whether blasting enemies from the field of battle one by one or wiping out whole armies with a single area of effect attack. Mages are also masters of control, able to freeze enemies in place with explosions of frost, or transform them into powerless Sheep at will.",
+        "source":
+}
+
+{
+"id" : 105,
+        "question": "Result",
+        "class": "Warlock : In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of imps, but as a warlock’s knowledge grows, seductive succubi, loyal voidwalkers, and horrific felhunters join the dark sorcerer’s ranks to wreak havoc on anyone who stands in their master’s way. Warlocks can ignite distant enemies in searing flame, send them fleeing in terror and pain, or afflict them with corrupting diseases and curses that steal the victim’s vitality."
+        "source": 
+}
+
+
+{
+"id" : 106,
+        "question": "Result",
+        "class": "Paladin : These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead. Ready to serve, paladins can defend their allies with sword and shield, or they can wield massive two-handed weapons against their enemies. The Light grants paladins additional power against the undead and demons, ensuring that these profane beings corrupt the world no longer. Paladins are not only zealots, but also guardians of the righteous, and they bestow blessings on those the Light would shine upon. The Light radiates from paladins, and worthy allies who stand near them are emboldened by its power."
+        "source": 
+}
+
+{
+"id" : 107,
+        "question": "Result",
+        "class": "Shaman : Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman’s allies or punish those who threaten them."
+        "source": 
+}
+
+{
+"id" : 108,
+        "question": "Result",
+        "class": "Priest :Priests are masters of healing, and can heal themselves and their minions through their Hero Power and a range of healing spells, as well as boosting minions' health. Priests' healing theme is reinforced by synergies with spells such as Inner Fire, and minions such as Lightspawn. Priests are capable of strong defensive play, keeping a handful of minions alive against all odds, and quickly regenerating defenders between rounds."
+        "source": 
+}
